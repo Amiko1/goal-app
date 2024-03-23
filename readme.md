@@ -10,9 +10,9 @@
 </p>
 
 <p float="left">
-  <img src="./assets/images/home.jpg" width="100" />
-  <img src="./assets/images/addGoal.jpg" width="100" />
-  <img src="./assets/images/goals.jpg" width="100" />
+  <img src="./assets/images/home.jpg" width="300" />
+  <img src="./assets/images/addGoal.jpg" width="300" />
+  <img src="./assets/images/goals.jpg" width="300" />
 </p>
 
 ## Key Features

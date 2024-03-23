@@ -9,11 +9,11 @@
   <a href="#credits">Credits</a> •
 </p>
 
-<p align="center">
-  <img src="./assets/images/home.jpg" />
-  <img src="./assets/images/addGoal.jpg" />
+<div style="display: flex; justify-content: center;">
+  <img src="./assets/images/home.jpg" style="margin-right: 10px;" />
+  <img src="./assets/images/addGoal.jpg" style="margin-right: 10px;" />
   <img src="./assets/images/goals.jpg" />
-</p>
+</div>
 
 ## Key Features
 

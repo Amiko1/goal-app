@@ -1,5 +1,5 @@
 <h1 align="center">
-  goal List app
+  Goal List App
   <br>
 </h1>
 

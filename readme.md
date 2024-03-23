@@ -3,17 +3,11 @@
   <br>
 </h1>
 
-<p align="center">
+<p float="left">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
 </p>
-
-<div style="display: flex; justify-content: center;">
-  <img src="./assets/images/home.jpg" style="margin-right: 10px;" />
-  <img src="./assets/images/addGoal.jpg" style="margin-right: 10px;" />
-  <img src="./assets/images/goals.jpg" />
-</div>
 
 ## Key Features
 

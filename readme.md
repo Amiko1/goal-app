@@ -7,6 +7,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
+  <a href="#you-may-also-like">You may also like</a> 
 </p>
 
 <p align="center">
@@ -54,3 +55,7 @@ This software uses the following open source packages:
 
 > GitHub [@Amiko1](https://github.com/Amiko1) &nbsp;&middot;&nbsp;
 > Linkedin [@amiran burjanadze](https://www.linkedin.com/in/amiran-burjanadze-a301111b7/)
+>
+> ## You may also like
+> 
+- [minigame-app]([https://github.com/Amiko1/goal-app](https://github.com/Amiko1/minigame-app)https://github.com/Amiko1/minigame-app)

@@ -58,4 +58,4 @@ This software uses the following open source packages:
 >
 > ## You may also like
 > 
-- [minigame-app]([https://github.com/Amiko1/goal-app](https://github.com/Amiko1/minigame-app)https://github.com/Amiko1/minigame-app)
+- [minigame-app](https://github.com/Amiko1/minigame-app)https://github.com/Amiko1/minigame-app)
